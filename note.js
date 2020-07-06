@@ -1,5 +1,5 @@
 let host = 'http://exam-2020-1-api.std-900.ist.mospolytech.ru/api/data1';
-
+/*
 var myObj =
 {
 	init:function(){
@@ -22,3 +22,4 @@ var myObj =
 		xhr.send();
 	}
 }
+*/ 
